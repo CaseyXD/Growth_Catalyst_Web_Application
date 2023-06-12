@@ -75,7 +75,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         }
         ?>
 
-        <h2>List of Employees</h2>
+        <h2>New Registration</h2>
         <form method="POST">
 
             <!-- Kolom nama -->
